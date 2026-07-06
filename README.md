@@ -3,7 +3,7 @@ CanSat electronic schematics and PCB files from the 2024/2025 competition by ESA
 
 Included: main PCB, power supply PCB, magnetometer PCB.
 
-Open using KiCAD (8.0 for the main PCB, 9.0 for the rest).
+Open using KiCAD.
 
 
 
