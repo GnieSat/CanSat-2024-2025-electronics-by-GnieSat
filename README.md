@@ -7,7 +7,7 @@ Open using KiCAD (8.0 for the main PCB, 9.0 for the rest).
 
 
 
-All designs here are released under CERN-OHL-W license (https://gitlab.com/ohwr/project/cernohl/-/wikis/uploads/82b567f43ce515395f7ddbfbad7a8806/cern_ohl_w_v2.txt)
+All designs here are released under CERN-OHL-W license (https://gitlab.com/ohwr/project/cernohl/-/wikis/uploads/82b567f43ce515395f7ddbfbad7a8806/cern_ohl_w_v2.txt).
 
 CERN Open Hardware Licence Version 2 - Weakly Reciprocal
 
